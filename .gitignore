@@ -1,0 +1,5 @@
+/bin/lib/Temp*.class
+Reports/
+.classpath
+.project
+/libs/Temp*.groovy
